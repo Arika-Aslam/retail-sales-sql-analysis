@@ -102,7 +102,7 @@ LinkedIn: linkedin.com/in/arika-muhammad-aslam-431121268
 
 ## Top Products Making Revenue
 
-![Top_Products](https://github.com/user-attachments/assets/6be06dcd-01df-402e-b9b4-f2c5ebc43d17)
+![Top_Prodcts](https://github.com/user-attachments/assets/dcbf0c03-07c9-4113-a132-fcaebb2162cd)
 
 ## Monthly Revenue Trends
 
