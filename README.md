@@ -99,12 +99,11 @@ GitHub: https://github.com/Arika-Aslam
 LinkedIn: linkedin.com/in/arika-muhammad-aslam-431121268
 
 # Analysis Preview
-
-![Revenue_trends](https://github.com/user-attachments/assets/834b9d84-6c5f-45a8-a5fb-867c5277fe68)
-
-
+#Top Prodcts Making Revenue
 ![Top_Prodcts](https://github.com/user-attachments/assets/6be06dcd-01df-402e-b9b4-f2c5ebc43d17)
 
+#Monthly Revenue Trends
+![Revenue_trends](https://github.com/user-attachments/assets/834b9d84-6c5f-45a8-a5fb-867c5277fe68)
 
 # Customer Features Table
 
