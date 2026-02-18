@@ -74,7 +74,7 @@ Indexes created:
 
 • pgAdmin
 
-#Project Structure
+# Project Structure
 
 retail-sales-analysis/
 
@@ -84,7 +84,7 @@ retail-sales-analysis/
 
 └── README.md
 
-#Author
+# Author
 
 Arika Muhammad Aslam
 
@@ -92,7 +92,7 @@ Master’s in Applied Mathematics
 
 Aspiring Data Analyst / ML Engineer
 
-#Connect With me
+# Connect With me
 
 GitHub: https://github.com/Arika-Aslam
 
