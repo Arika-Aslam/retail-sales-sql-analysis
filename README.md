@@ -99,16 +99,19 @@ GitHub: https://github.com/Arika-Aslam
 LinkedIn: linkedin.com/in/arika-muhammad-aslam-431121268
 
 # Analysis Preview
-#Top Prodcts Making Revenue
-![Top_Prodcts](https://github.com/user-attachments/assets/6be06dcd-01df-402e-b9b4-f2c5ebc43d17)
 
-#Monthly Revenue Trends
-![Revenue_trends](https://github.com/user-attachments/assets/834b9d84-6c5f-45a8-a5fb-867c5277fe68)
+## Top Products Making Revenue
 
-# Customer Features Table
+![Top_Products](https://github.com/user-attachments/assets/6be06dcd-01df-402e-b9b4-f2c5ebc43d17)
 
-The customer_features table aggregates customer-level metrics
-used for further analysis.
+## Monthly Revenue Trends
+
+![Revenue_Trends](https://github.com/user-attachments/assets/834b9d84-6c5f-45a8-a5fb-867c5277fe68)
+
+## Customer Features Table
+
+The `customer_features` table aggregates customer-level metrics used for further analysis.
+
 ![Customer_Features](https://github.com/user-attachments/assets/e7dea8fe-b6dd-492a-972b-1cf90e38deab)
 
 ---
