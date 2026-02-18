@@ -90,7 +90,7 @@ Arika Muhammad Aslam
 
 Master’s in Applied Mathematics
 
-Aspiring Data Analyst / ML Engineer
+Data Analyst / ML Engineer
 
 # Connect With me
 
