@@ -66,11 +66,6 @@ The dataset contains:
 
 Indexes created:
 
-```sql
-CREATE INDEX idx_customer_id ON retail_sales(customer_id);
-
-CREATE INDEX idx_order_date ON retail_sales(order_date);
-
 # Tools Used
 
 • PostgreSQL
