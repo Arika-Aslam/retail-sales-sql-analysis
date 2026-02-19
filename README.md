@@ -1,7 +1,5 @@
-<img width="1200" height="1200" alt="Retail Sales Analysis" src="https://github.com/user-attachments/assets/a125233b-8896-4591-805f-01e63fdb9f82" /><p align="center">
-  <img src="<img width="1200" height="1200" alt="Retail Sales Analysis" src="https://github.com/user-attachments/assets/1c43bd3b-48e2-45fe-a047-9cf93d8ee51a" />
-="800">
-</p>
+<img width="1200" height="1200" alt="Retail Sales Analysis" src="https://github.com/user-attachments/assets/d8943357-0c8a-4664-a96d-a57304dc912b" />
+
 # 📊 Retail Sales Performance Analysis  
 
 **PostgreSQL • Advanced SQL • Data Analytics**
