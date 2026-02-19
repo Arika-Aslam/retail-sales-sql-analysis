@@ -1,4 +1,3 @@
-<img width="1200" height="1200" alt="Retail Sales Analysis" src="https://github.com/user-attachments/assets/d8943357-0c8a-4664-a96d-a57304dc912b" />
 
 # 📊 Retail Sales Performance Analysis  
 
@@ -85,16 +84,16 @@ The `customer_features` table aggregates customer-level metrics for advanced ana
 
 ![Customer_Features](https://github.com/user-attachments/assets/e7dea8fe-b6dd-492a-972b-1cf90e38deab)
 
-## 🚀 Future Improvements
-
+## 🚀 Next Steps
 - Build interactive Power BI dashboard  
 - Perform advanced analysis using Python  
-- Develop customer segmentation model  
+- Develop customer segmentation model (RFM / clustering)  
 - Train machine learning models using engineered features  
 - Deploy dashboard for business decision-making  
 
 ## 👩‍💻 Author
 **Arika Muhammad Aslam**
+
 Master’s in Applied Mathematics
 Data Analyst / ML Engineer
 
