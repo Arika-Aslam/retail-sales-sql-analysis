@@ -14,7 +14,6 @@ The objective of this project is to:
 - Analyze business performance  
 - Create customer-level features for advanced analytics and machine learning  
 
----
 
 ## 📁 Dataset
 
@@ -26,8 +25,6 @@ The dataset includes the following tables:
 - Sales  
 - Regions  
 - Shipping  
-
----
 
 ## 🛠 Key SQL Techniques Used
 
@@ -43,8 +40,6 @@ The dataset includes the following tables:
 - Feature Engineering  
 - Indexing for Performance Optimization  
 
----
-
 ## 📈 Business Problems Solved
 
 - Identified top regions, products, and customers by revenue  
@@ -53,21 +48,15 @@ The dataset includes the following tables:
 - Discovered frequently bought product combinations  
 - Built customer-level feature table for ML models  
 
----
-
 ## ⚡ Performance Optimization
 
 Indexes were created on high-cardinality and frequently filtered columns to improve query execution time and overall performance.
-
----
 
 ## 🧰 Tools Used
 
 - PostgreSQL  
 - SQL  
 - pgAdmin  
-
----
 
 ## Project Structure
 
@@ -78,8 +67,6 @@ retail-sales-analysis/
 ├── sql/retail_sales_analysis.sql
 
 └── README.md
-
----
 
 ## 📊 Analysis Preview
 Sample queries and outputs are available in the SQL file.
@@ -98,8 +85,6 @@ The `customer_features` table aggregates customer-level metrics for advanced ana
 
 ![Customer_Features](https://github.com/user-attachments/assets/e7dea8fe-b6dd-492a-972b-1cf90e38deab)
 
----
-
 ## 🚀 Future Improvements
 
 - Build interactive Power BI dashboard  
@@ -108,18 +93,11 @@ The `customer_features` table aggregates customer-level metrics for advanced ana
 - Train machine learning models using engineered features  
 - Deploy dashboard for business decision-making  
 
----
-
 ## 👩‍💻 Author
-
 **Arika Muhammad Aslam**
-
 Master’s in Applied Mathematics
-
 Data Analyst / ML Engineer
 
 ## Connect With me
-
-
 🔗 GitHub: https://github.com/Arika-Aslam  
 🔗 LinkedIn: https://linkedin.com/in/arika-muhammad-aslam-431121268
