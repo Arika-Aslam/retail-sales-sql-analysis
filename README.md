@@ -1,80 +1,77 @@
-# Retail Sales Analysis using PostgreSQL
+<img width="1200" height="1200" alt="Retail Sales Analysis" src="https://github.com/user-attachments/assets/a125233b-8896-4591-805f-01e63fdb9f82" /><p align="center">
+  <img src="<img width="1200" height="1200" alt="Retail Sales Analysis" src="https://github.com/user-attachments/assets/1c43bd3b-48e2-45fe-a047-9cf93d8ee51a" />
+="800">
+</p>
+# 📊 Retail Sales Performance Analysis  
 
-End-to-End SQL Project | Data Analysis | Feature Engineering
-
----
-
-# Overview
+**PostgreSQL • Advanced SQL • Data Analytics**
 
 This project performs end-to-end retail sales analysis using PostgreSQL.
 
-The objective is to clean raw transactional data, analyse business performance, and create customer-level features for advanced analytics and machine learning.
+## 📌 Project Objective
+
+The objective of this project is to:
+
+- Clean raw transactional data  
+- Analyze business performance  
+- Create customer-level features for advanced analytics and machine learning  
 
 ---
 
-# Dataset
+## 📁 Dataset
 
-The dataset contains:
+The dataset includes the following tables:
 
-• Orders  
-• Customers  
-• Products  
-• Sales  
-• Regions  
-• Shipping  
-
----
-
-# Key SQL Techniques Used
-
-• Data Cleaning & Type Conversion  
-
-• Aggregations and Business Analysis  
-
-• Common Table Expressions (CTEs)
-
-• Window Functions  
-  - Running totals  
-  - Rolling averages  
-  - Customer purchase analysis  
-
-• Market Basket Analysis  
-
-• A/B Testing Simulation  
-
-• Feature Engineering  
-
-• Indexing for performance optimisation  
+- Orders  
+- Customers  
+- Products  
+- Sales  
+- Regions  
+- Shipping  
 
 ---
 
-# Business Problems Solved
+## 🛠 Key SQL Techniques Used
 
-• Top regions, products, and customers by revenue  
-
-• Monthly and cumulative revenue trends  
-
-• Customer purchase behaviour  
-
-• Frequently bought product combinations  
-
-• Customer feature creation for ML models  
+- Data Cleaning & Type Conversion  
+- Aggregations & Business Analysis  
+- Common Table Expressions (CTEs)  
+- Window Functions  
+  - Running Totals  
+  - Rolling Averages  
+  - Customer Purchase Analysis  
+- Market Basket Analysis  
+- A/B Testing Simulation  
+- Feature Engineering  
+- Indexing for Performance Optimization  
 
 ---
 
-# Performance Optimization
+## 📈 Business Problems Solved
 
-Indexes created:
+- Identified top regions, products, and customers by revenue  
+- Analyzed monthly and cumulative revenue trends  
+- Studied customer purchase behavior  
+- Discovered frequently bought product combinations  
+- Built customer-level feature table for ML models  
 
-# Tools Used
+---
 
-• PostgreSQL
+## ⚡ Performance Optimization
 
-• SQL
+Indexes were created on high-cardinality and frequently filtered columns to improve query execution time and overall performance.
 
-• pgAdmin
+---
 
-# Project Structure
+## 🧰 Tools Used
+
+- PostgreSQL  
+- SQL  
+- pgAdmin  
+
+---
+
+## Project Structure
 
 retail-sales-analysis/
 
@@ -84,47 +81,47 @@ retail-sales-analysis/
 
 └── README.md
 
-# Author
+---
 
-Arika Muhammad Aslam
+## 📊 Analysis Preview
+Sample queries and outputs are available in the SQL file.
 
-Master’s in Applied Mathematics
-
-Data Analyst / ML Engineer
-
-# Connect With me
-
-GitHub: https://github.com/Arika-Aslam
-
-LinkedIn: linkedin.com/in/arika-muhammad-aslam-431121268
-
-# Analysis Preview
-
-## Top Products Making Revenue
+### 🔹 Top Revenue-Generating Products  
 
 ![Top_Products](https://github.com/user-attachments/assets/91e06e8a-af99-4457-9b0e-5fe2164b6813)
 
-
-## Monthly Revenue Trends
+### 🔹 Monthly Revenue Trends  
 
 ![Revenue_Trends](https://github.com/user-attachments/assets/834b9d84-6c5f-45a8-a5fb-867c5277fe68)
 
-## Customer Features Table
+### 🔹 Customer Feature Table  
 
-The `customer_features` table aggregates customer-level metrics used for further analysis.
+The `customer_features` table aggregates customer-level metrics for advanced analytics and machine learning.
 
 ![Customer_Features](https://github.com/user-attachments/assets/e7dea8fe-b6dd-492a-972b-1cf90e38deab)
 
 ---
 
-# Future Improvements
+## 🚀 Future Improvements
 
-• Build interactive Power BI dashboard  
+- Build interactive Power BI dashboard  
+- Perform advanced analysis using Python  
+- Develop customer segmentation model  
+- Train machine learning models using engineered features  
+- Deploy dashboard for business decision-making  
 
-• Perform advanced analysis using Python  
+---
 
-• Develop customer segmentation model  
+## 👩‍💻 Author
 
-• Train machine learning models using engineered features  
+**Arika Muhammad Aslam**
 
-• Deploy dashboard for business decision-making  
+Master’s in Applied Mathematics
+
+Data Analyst / ML Engineer
+
+## Connect With me
+
+
+🔗 GitHub: https://github.com/Arika-Aslam  
+🔗 LinkedIn: https://linkedin.com/in/arika-muhammad-aslam-431121268
